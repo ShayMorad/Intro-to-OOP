@@ -14,7 +14,6 @@ The project emphasized **Inheritance**, **Modular Design**, and applying **OOP P
 </div>
 
 
-
 ## Running the Project
 
 To compile and run the tournament locally:
