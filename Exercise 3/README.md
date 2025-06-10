@@ -41,8 +41,7 @@ To compile and run the tournament locally:
 ![](./examples/1.jpg)
 ## Contributions
 
-Contributions are encouraged!  
-For any significant changes, it's best to open an issue first and start a discussion.
+Contributions are encouraged!  For any significant changes, it's best to open an issue first and start a discussion.
 
 
 
