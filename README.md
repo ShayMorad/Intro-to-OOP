@@ -41,10 +41,21 @@ The course spanned **12 weeks** and introduced both **fundamental** and **advanc
 
 > Visual examples of some exercises
 
-- 🕹️ **Tic Tac Toe**  
-- 🎮 **Bricker Game**  
-- 🎨 **ASCII Art** (Before & After)  
-- 🌿 **Pepse Game** 
+### 🕹️ Tic Tac Toe  
+![](./Exercise%202/examples/1.jpg)
+
+### 🎮 Bricker Game  
+![](./Exercise%203/examples/1.jpg)
+
+### 🎨 ASCII Art (Before & After)  
+**Before:**  
+![](./Exercise%204/examples/1.jpg)  
+**After:**  
+![](./Exercise%204/examples/2.jpg)
+
+### 🌿 Pepse Game  
+![](./Exercise%205/examples/1.jpg)  
+
 
 
 
