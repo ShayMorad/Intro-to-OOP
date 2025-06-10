@@ -28,11 +28,11 @@ The course spanned **12 weeks** and introduced both **fundamental** and **advanc
 
 | Exercise | Title                    | Description                                                             |
 |----------|--------------------------|-------------------------------------------------------------------------|
-| [Exercise 1](./Exercise%201) | Chatter Bot              | A simple chatbot that reacts to user input and mimics basic conversation logic |
-| [Exercise 2](./Exercise%202) | Tic Tac Toe Tournament   | Implementation of a tournament game between human and bot players       |
-| [Exercise 3](./Exercise%203) | Bricker Game             | A full arcade-style Bricker game built using `danogl`                   |
-| [Exercise 4](./Exercise%204) | ASCII Art Generator      | Converts images to ASCII representation with scaling and contrast tools |
-| [Exercise 5](./Exercise%205) | 2D Game – Pepse          | A custom-built side-scroller game showcasing energy systems & physics   |
+| [Exercise 1](./Exercise%201) | Chatter Bot               | A simple chatbot that reacts to user input and mimics basic conversation logic |
+| [Exercise 2](./Exercise%202) | Tic Tac Toe Tournament    | Implementation of a tournament game between human and bot players       |
+| [Exercise 3](./Exercise%203) | Bricker Game              | A full arcade-style Bricker game built using `danogl`                   |
+| [Exercise 4](./Exercise%204) | ASCII Art Generator       | Converts images to ASCII representation with scaling and contrast tools |
+| [Exercise 5](./Exercise%205) | 2D Game – Pepse           | A custom-built side-scroller game showcasing energy systems & physics   |
 
 
 
