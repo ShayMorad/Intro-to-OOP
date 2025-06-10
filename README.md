@@ -61,8 +61,7 @@ The course spanned **12 weeks** and introduced both **fundamental** and **advanc
 
 ## 🤝 Contributions
 
-Contributions are welcome!  
-If you plan to make significant changes, please open an issue first to discuss your ideas.
+Contributions are welcome!  If you plan to make significant changes, please open an issue first to discuss your ideas.
 
 
 
