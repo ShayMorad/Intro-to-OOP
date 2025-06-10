@@ -20,7 +20,7 @@ The course spanned **12 weeks** and introduced both **fundamental** and **advanc
 - Regex and Parsing
 - Game Development with the `danogl` Java Game Framework
 
-🔗 [View Course Syllabus (Shnaton)](https://shnaton.huji.ac.il/index.php/NewSyl/67315/2/2023/)
+🔗 [View Course Syllabus (Shnaton)](https://shnaton.huji.ac.il/index.php/NewSyl/67125/2/2023/)
 
 
 
