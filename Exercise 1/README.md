@@ -40,8 +40,7 @@ To run the chatbot locally on your machine:
 
 ## Contributions
 
-Contributions are encouraged!  
-For any significant changes, it's best to open an issue first and start a discussion.
+Contributions are encouraged!  For any significant changes, it's best to open an issue first and start a discussion.
 
 
 ## License
