@@ -49,7 +49,7 @@ The course spanned **12 weeks** and introduced both **fundamental** and **advanc
 
 ### 🎨 ASCII Art (Before & After)  
 **Before:**  
-![](./Exercise%204/examples/1.jpg)  
+![](./Exercise%204/examples/1.jpeg)  
 **After:**  
 ![](./Exercise%204/examples/2.jpg)
 
