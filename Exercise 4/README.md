@@ -39,7 +39,7 @@ To compile and run the tournament locally:
 
 ## Media
 ### Before:
-![](./examples/1.jpg)
+![](./examples/1.jpeg)
 
 ### After:
 ![](./examples/2.jpg)
